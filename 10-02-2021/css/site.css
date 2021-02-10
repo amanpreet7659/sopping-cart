@@ -1,0 +1,112 @@
+#maindiv {
+  width: 60%;
+  border: 2px violet solid;
+}
+
+#formdiv {
+  border: 2px firebrick solid;
+  width: 100%;
+}
+
+#hhh1 {
+  float: left;
+}
+#btn1 {
+}
+#login1 {
+  display: none;
+}
+#back {
+  display: none;
+}
+#span2,
+#span3,
+#span4 {
+  display: none;
+  color: red;
+}
+
+#welcomediv {
+  background: none;
+}
+#welcomediv1 {
+  background: none;
+  color: black;
+  text-align: center;
+}
+
+#imagediv {
+  background-color: white;
+}
+#imagediv1 {
+  background-color: white;
+}
+#imagediv2 {
+  background-color: white;
+}
+#imagediv3 {
+  background-color: white;
+}
+#imagediv4 {
+  background-color: white;
+}
+#imagediv5 {
+  background-color: white;
+}
+#countbtn,
+#countbtn1,
+#countbtn2,
+#countbtn3,
+#countbtn4,
+#countbtn5 {
+  background-color: white;
+  border: none;
+  width: auto;
+}
+#childimagediv {
+  background-color: white;
+  width: 60%;
+}
+#image1 {
+  width: 100%;
+  height: 60%;
+}
+#image2 {
+  width: 100%;
+  height: 60%;
+}
+#image3 {
+  width: 100%;
+  height: 60%;
+}
+#image4 {
+  width: 100%;
+  height: 60%;
+}
+#image5 {
+  width: 100%;
+  height: 60%;
+}
+#image6 {
+  width: 100%;
+  height: 60%;
+}
+#sup1 {
+  display: none;
+  color: red;
+}
+#cartimg {
+  width: 30%;
+  height: 250px;
+}
+#cartcountbtn {
+  background-color: white;
+  border: none;
+}
+#backbutn {
+  margin-left: 95%;
+  position: fixed;
+}
+#fmp {
+  display: none;
+}
